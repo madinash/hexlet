@@ -1,2 +1,1 @@
-update README.MD
-experiment with amend
+боль от сожалений, либо боль от самодисциплины
